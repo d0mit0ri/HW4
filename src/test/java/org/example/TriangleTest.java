@@ -71,4 +71,13 @@ public class TriangleTest {
        Assertions.assertDoesNotThrow(TriangleTest::t);
    }
 
+
+
+
+
+   /**Из мавена тест не запускается, работает только если с окна запускать,
+     *Так же при пуске отчета выдает Unable to locate Test Source XRef to link to - DISABLED/
+     */
+
+
 }
